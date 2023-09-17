@@ -5,4 +5,7 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/IRFEE01
-summary: null
+summary: The sensor uses modulated infrared signal for distant detection of obstacles.
+  It mmaybe seen as virtual feeler for roboot. The sensor uses processor ATtiny and
+  infraredsensor for remote control. The modulation and statistical processing of
+  the signalgives the sensor good noise imunity.

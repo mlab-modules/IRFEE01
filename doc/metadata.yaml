@@ -1,4 +1,7 @@
-description: null
+description: The sensor uses modulated infrared signal for distant detection of obstacles.
+  It mmaybe seen as virtual feeler for roboot. The sensor uses processor ATtiny and
+  infraredsensor for remote control. The modulation and statistical processing of
+  the signalgives the sensor good noise imunity.
 github_branch: IRFEE01A
 github_repo: IRFEE01
 github_url: https://github.com/mlab-modules/IRFEE01
